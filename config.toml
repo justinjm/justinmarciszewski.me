@@ -56,16 +56,17 @@ googleAnalytics = "UA-134369020-1"
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/hianalytics"
+    name = "github"
+    url = "https://github.com/justinjm"
 
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/justinmarciszewski"
-
+    
   [[params.social]]
-    name = "github"
-    url = "https://github.com/justinjm"
+    name = "twitter"
+    url = "https://twitter.com/hianalytics"
+
 
 [menu]
 
