@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-My name is Justin Marciszewski, I am a builder and I problem solver. I enjoy solving business problems with data, machine learning and generative AI cloud computing solutions.
+My name is Justin Marciszewski, I am a builder and collaborator. I enjoy working with others to solve business problems using data, machine learning, generative AI and cloud computing solutions.
 
 
 Interests:
