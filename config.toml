@@ -74,3 +74,9 @@ googleAnalytics = "UA-134369020-1"
     name = "About"
     url = "about-me/"
     weight = 20
+
+  [[menu.main]]
+    name = "Code"
+    url = "code/"
+    weight = 20
+    
