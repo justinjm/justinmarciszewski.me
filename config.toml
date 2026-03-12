@@ -79,4 +79,8 @@ googleAnalytics = "UA-134369020-1"
     name = "Code"
     url = "https://code.justinmarciszewski.me/code"
     weight = 20
-    
+
+  [[menu.main]]
+    name = "Tools"
+    url = "tools/"
+    weight = 20
